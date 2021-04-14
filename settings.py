@@ -1,8 +1,17 @@
 # MADE BY: Lisette Spalding
-# FILE NAME: main.py
+# FILE NAME: settings.py
 # DATE CREATED: 02/25/2021
-# DATE LAST MODIFIED: 02/25/2021
+# DATE LAST MODIFIED: 04/13/2021
 # PYTHON VER. USED: 3.8
+
+######## GAME SETTINGS ########
+TITLE =  "Simple Platformer"
+
+WIDTH = 480
+HEIGHT = 600
+
+FPS = 60
+############# FIN #############
 
 ###### COLORS  (R. G. B) ######
 BLACK = (0,0,0)
