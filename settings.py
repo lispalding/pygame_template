@@ -5,6 +5,12 @@
 # DATE LAST MODIFIED: 04/13/2021
 # PYTHON VER. USED: 3.8
 
+############ IMPORTS ###########
+import pygame as pg
+import random as r
+from os import path
+########### FINISHED ###########
+
 ######## GAME SETTINGS ########
 TITLE =  "Simple Platformer"
 
