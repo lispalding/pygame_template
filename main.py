@@ -1,5 +1,6 @@
 # MADE BY: Lisette Spalding
 # FILE NAME: main.py
+# PROJECT NAME: pygame_template
 # DATE CREATED: 02/25/2021
 # DATE LAST MODIFIED: 02/25/2021
 # PYTHON VER. USED: 3.8
